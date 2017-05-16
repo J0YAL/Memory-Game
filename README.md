@@ -1,2 +1,1 @@
-# Memory-Game
-Flash Card Memory Game
+Read Flash_Card_Game.docx
